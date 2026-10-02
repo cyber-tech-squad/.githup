@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyber-tech-squad/.github/main/profile/logo.jpeg" alt="Logo du Cyber Tech Squad" width="180">
+<img src="https://raw.githubusercontent.com/cyber-tech-squad/.github/main/profile/logo.jpeg" alt="Logo du Cyber Tech Squad" width="180">
 </p>
 
 <h1 align="center">Cyber Tech Squad</h1>
