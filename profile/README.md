@@ -1,33 +1,44 @@
-# 🛡️ Cyber Tech Squad
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyber-tech-squad/.github/main/profile/logo.jpeg" alt="Logo du Cyber Tech Squad" width="180">
+</p>
 
-**Technologie · Sécurité · Innovation**
+<h1 align="center">Cyber Tech Squad</h1>
 
-Le Cyber Tech Squad (CTS) est le club de cybersécurité de l'Université Alioune Diop de Bambey (UADB). Nous formons, pratiquons et partageons : de l'initiation aux premiers CTF jusqu'aux projets concrets au service de la communauté.
+<p align="center"><strong>Technologie · Sécurité · Innovation</strong></p>
 
-## 🎯 Ce que nous faisons
+<p align="center">Club de cybersécurité de l'Université Alioune Diop de Bambey (UADB)</p>
 
-- **CTF et mini-CTF** en équipes (Hack The Box, Starting Point)
-- **Workshops** pratiques (Linux, réseaux, sécurité offensive et défensive)
-- **Webinaires** « Sénégal Cyber-Résilience »
-- **Défis et certifications** pour progresser ensemble
-- **Projets open source** développés par les membres, dont le site du club
+---
 
-## 🚀 Projet en cours
+## À propos
+
+Le Cyber Tech Squad (CTS) réunit les étudiants passionnés de cybersécurité. Nous formons, pratiquons et partageons, de l'initiation aux premiers CTF jusqu'aux projets concrets au service de la communauté.
+
+## Nos activités
+
+- CTF et mini-CTF en équipes (Hack The Box, Starting Point)
+- Workshops pratiques : Linux, réseaux, sécurité offensive et défensive
+- Webinaires « Sénégal Cyber-Résilience »
+- Défis et certifications pour progresser ensemble
+- Projets open source développés par les membres
+
+## Projets
 
 | Dépôt | Description |
 |---|---|
-| `cts-website` | Le site web officiel du club |
+| `cts-website` | Site web officiel du club |
 
-## 🤝 Rejoindre le club
+## Rejoindre le club
 
-- 💬 Discord : https://discord.gg/UK44wJyeQ
+Retrouve-nous sur [Discord](https://discord.gg/UK44wJyeQ).
 
-## 🧑‍💻 Contribuer
+## Contribuer
 
-1. Rejoins l'équipe de ton groupe
-2. Prends une issue dans le tableau du projet
-3. Travaille dans une branche, puis ouvre une Pull Request
-4. Respecte les règles décrites dans `CONTRIBUTING.md`
+1. Rejoindre l'équipe de son groupe
+2. Prendre une tâche dans le tableau du projet
+3. Travailler dans une branche dédiée, puis ouvrir une Pull Request
+4. Respecter les règles décrites dans `CONTRIBUTING.md`
 
 ---
-*UFR SATIC · Université Alioune Diop de Bambey*
+
+<p align="center">UFR SATIC · Université Alioune Diop de Bambey</p>
